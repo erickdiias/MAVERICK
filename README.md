@@ -4,9 +4,9 @@
 
 <span id="pt">MAVERICK</span>
 ===========================
-
-**Controle Orientado a Campo (FOC)** **Tolerante a Falhas** Baseado em **FPGA** para acionamento de **Motores Síncronos de Ímã Permanente (PMSM)** ou **Motores Brushless DC Trifásicos(BLDC)**
+**Controle vetorial** **tolerante a falhas** baseado em **FPGA** para acionamento de **motores Brushless DC trifásico (BLDC)**
 
 <span id="en">MAVERICK</span>
 ===========================
-**FPGA** Based **Fault-Tolerant** **Field Oriented Control (FOC)** for driving **Permanent Magnet Synchronous Motors (PMSM)** or ** Three-Phase Brushless DC Motors (BLDC)**
+**FPGA**-Based **Fault-Tolerant** **Vector Control** For Driving **Three-Phase Brushless DC Motor(BLDC)**
+
