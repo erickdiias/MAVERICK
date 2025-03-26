@@ -1,2 +1,2 @@
 # MAVERICK
-Projeto de controle de estabilidade de aeromodelo tipo quadcopter autômato por lei de controle PID
+FPGA-Based Fault-Tolerant Vector Control For Three-Phase Brushless DC Motor
