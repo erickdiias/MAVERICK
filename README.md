@@ -4,9 +4,9 @@
 
 <span id="pt">MAVERICK</span>
 ===========================
-**Controle vetorial** **tolerante a falhas** baseado em **FPGA** para acionamento de **motores Brushless DC trifásico (BLDC)**
+**ARINC-429**
 
 <span id="en">MAVERICK</span>
 ===========================
-**FPGA**-Based **Fault-Tolerant** **Vector Control** For Driving **Three-Phase Brushless DC Motor(BLDC)**
+**ARINC-429**
 
