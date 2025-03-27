@@ -1,5 +1,5 @@
 --
---
+-- Description 
 -- Author: Erick S. Dias
 -- last update: 27/03/25
 
@@ -10,10 +10,9 @@ use ieee.numeric_std.all;
 entity A429_Rx is
     generic(
         clk_freq : integer := 100_000_000;
-        tranmssion_speed : integer := 100_000;
     );
     port(
-        clk : in std_logic;
+        clk, rst : in std_logic;
     );
 end entity;
 
