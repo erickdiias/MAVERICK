@@ -17,7 +17,7 @@ entity A429_Tx is
     );
     port(
         clk, rst : in std_logic;
-        data_in : in std_logic_vector(18 downto 0);
+        data_in : in std_logic_vector(18 downto 0); -- Form discret
     );
 end entity;
 
