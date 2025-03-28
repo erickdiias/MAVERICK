@@ -22,6 +22,6 @@ entity A429_Tx is
 end entity;
 
 architecture main of A429_Tx is
-    constant clk_div: natural := clk_freq / tranmssion_speed;
+    constant clk_bit: natural := clk_freq / tranmssion_speed;
 begin
 end architecture;
