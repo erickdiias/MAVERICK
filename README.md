@@ -4,9 +4,9 @@
 
 <span id="pt">MAVERICK</span>
 ===========================
-**ARINC 429 (Aeronautical Radio, Incorporated)**, o **"Sistema de Transferência de Informações Digitais Mark 33 (DITS)"**, é o padrão técnico para o barramento de dados aviônicos usado na maioria das aeronaves comerciais e de transporte.
+Projeto de controle de estabilidade de aeromodelo tipo quadcopter autômato por lei de controle PID
 
 <span id="en">MAVERICK</span>
 ===========================
-**ARINC 429 (Aeronautical Radio, Incorporated)**, the **"Mark 33 Digital Information Transfer System (DITS)"**, is the technical standard for the avionics data bus used in most commercial and transport aircraft.
+Projeto de controle de estabilidade de aeromodelo tipo quadcopter autômato por lei de controle PID
 
